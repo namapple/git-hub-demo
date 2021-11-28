@@ -2,8 +2,9 @@
 
 int main(){
 
-    printf("%s", "The second file is already modified.");
-    printf("%s", "Let see how it's done.");
-    printf("%s", "Test cloning git repositoty.");
+    printf("%s", "The second file is already modified.\n");
+    printf("%s", "Let see how it's done.\n");
+    printf("%s", "Test cloning git repositoty.\n");
+    // Add some comments
     return 0;
 }
