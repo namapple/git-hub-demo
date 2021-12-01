@@ -6,5 +6,6 @@ int main(){
     printf("Element at Index 1 is %d", arr[1]);
     printf("Element at Index 2 is %d", arr[2]);
     printf("Element at Index 3 is %d", arr[3]);
+    printf("Element at Index 4 is %d", arr[4]);
     return 0;
 }
