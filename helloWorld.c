@@ -3,7 +3,7 @@
 int main() {
 
 	int row, col;
-
+	int a, b;
 	while(1) {
 	printf("%s", "Nhap so hang: ");
 	scanf("%d", &row);
