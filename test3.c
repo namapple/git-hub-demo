@@ -27,6 +27,6 @@ int main() {
 	printf("Hero name:\t%s\n", hero1.name);
 	printf("Difficulty:\t%s\n", hero1.diff);
 	return 0;
-	puts("");
+	puts("Make some changes to pull");
 }
 
